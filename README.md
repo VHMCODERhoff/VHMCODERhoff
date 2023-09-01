@@ -3,8 +3,6 @@
 
 <br>
 
- ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
-
 - 💻 I'm FullStack Developer;
  
 - 👨‍🎓 I'm graduating in **Systems Analysis and Development.**;
