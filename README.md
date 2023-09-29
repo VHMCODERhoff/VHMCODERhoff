@@ -86,7 +86,7 @@
 
 <p align="left">
  
- <a href="https://www.linkedin.com/in/evander-inacio" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/vitor-hoffmann-motarelli/" alt="Linkedin">
   <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/vitor-hoffmann-motarelli/"/> 
  </a>
 
@@ -102,6 +102,6 @@
 ## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 
 <div align="center">
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=VHMCODERhoff&show_icons=true=anuraghazra&show_icons=true&theme=aur" alt="evander stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=vitorhoffm&show_icons=true=anuraghazra&show_icons=true&theme=aur" alt="evander stats"/>
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHMCODERhoff&layout=compact&theme=aura" alt="evander stats"/>
  </div>
